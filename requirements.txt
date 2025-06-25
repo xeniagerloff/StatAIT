@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+scikit_learn
+dill
+wget
+tqdm
+numba
+statsmodels
+pyyaml
+protobuf
+scikits-bootstrap
